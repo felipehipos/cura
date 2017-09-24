@@ -1,0 +1,2 @@
+# cura
+Individual e coletiva
